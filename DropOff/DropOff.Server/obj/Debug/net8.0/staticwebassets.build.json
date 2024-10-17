@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "/uE5reU7CFe6ZNWH/q9+i2+DZp9YWXBUQ/63TWxb1ag=",
+  "Source": "DropOff.Server",
+  "BasePath": "_content/DropOff.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\cris_\\Desktop\\PruebaTecnica CristobalPizarroReyes\\DropOff\\dropoff.client\\dropoff.client.esproj",
+      "Version": 2,
+      "Source": "dropoff.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

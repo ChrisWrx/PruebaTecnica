@@ -1,0 +1,6 @@
+@DropOff.Server_HostAddress = http://localhost:5141
+
+GET {{DropOff.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
